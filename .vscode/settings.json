@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_tasks/lib/python3.10/site-packages",
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_panel/lib/python3.10/site-packages",
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_fleet_adapter/lib/python3.10/site-packages",
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_bridges/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_tasks/lib/python3.10/site-packages",
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_panel/lib/python3.10/site-packages",
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_fleet_adapter/lib/python3.10/site-packages",
+        "/home/rosi/ROS2_ws/ws_rmf_demos/install/rmf_demos_bridges/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
