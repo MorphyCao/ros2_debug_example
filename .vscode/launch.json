@@ -7,7 +7,7 @@
         {
             "name": "ROS: Launch",
             "request": "launch",
-            "target": "/home/kin/gpir_ws/src/gpir/planning_core/launch/planning.launch",
+            "target": "/home/rosi/ROS2_ws/pubsub_ws/src/ros2_debug_example/launch/cpp_pubsub_launch.py",
             "type": "ros"
         }
     ]
